@@ -1,0 +1,16 @@
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\bin\Debug\net8.0\ProductApp.Application.deps.json
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\bin\Debug\net8.0\ProductApp.Application.dll
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\bin\Debug\net8.0\ProductApp.Application.pdb
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\bin\Debug\net8.0\ProductApp.Domain.dll
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\bin\Debug\net8.0\ProductApp.Domain.pdb
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\obj\Debug\net8.0\ProductApp.Application.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\obj\Debug\net8.0\ProductApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\obj\Debug\net8.0\ProductApp.Application.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\obj\Debug\net8.0\ProductApp.Application.AssemblyInfo.cs
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\obj\Debug\net8.0\ProductApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\obj\Debug\net8.0\ProductApp.Application.sourcelink.json
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\obj\Debug\net8.0\ProductA.2FD14B52.Up2Date
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\obj\Debug\net8.0\ProductApp.Application.dll
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\obj\Debug\net8.0\refint\ProductApp.Application.dll
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\obj\Debug\net8.0\ProductApp.Application.pdb
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Application\obj\Debug\net8.0\ref\ProductApp.Application.dll

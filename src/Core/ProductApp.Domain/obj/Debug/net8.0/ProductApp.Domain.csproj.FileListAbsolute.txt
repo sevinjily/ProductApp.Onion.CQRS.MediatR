@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net8.0\ProductApp.Domain.deps.json
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net8.0\ProductApp.Domain.dll
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\bin\Debug\net8.0\ProductApp.Domain.pdb
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.AssemblyInfo.cs
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.sourcelink.json
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.dll
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\refint\ProductApp.Domain.dll
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ProductApp.Domain.pdb
+C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\Core\ProductApp.Domain\obj\Debug\net8.0\ref\ProductApp.Domain.dll
