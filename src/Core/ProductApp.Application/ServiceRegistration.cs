@@ -10,7 +10,11 @@ namespace ProductApp.Application
         {
             var assm = Assembly.GetExecutingAssembly();
             services.AddAutoMapper(assm);
-                services.AddMediatR(assm);
+            //services.AddMediatR(cfg => cfg.RegisterServicesFromAssembly(assm));
+            services.AddMediatR(assm);
+
+
+
         }
     }
 }

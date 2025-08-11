@@ -20,10 +20,6 @@ C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\bin\Deb
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
-C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
-C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
-C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
@@ -41,7 +37,6 @@ C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\obj\Deb
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.csproj.CoreCompileInputs.cache
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\ProductApp.WebApi.sourcelink.json
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\scopedcss\bundle\ProductApp.WebApi.styles.css
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\Asus\Desktop\.Net-Onion\ProductApp\src\WebApi\ProductApp.WebApi\obj\Debug\net8.0\staticwebassets.development.json
